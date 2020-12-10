@@ -34,9 +34,9 @@ const Layout = ({ children }) => {
             <Wrapper>
               {children}
               <footer>
-                © {new Date().getFullYear()}, Built with
+                © IDLE HOURS CO. {new Date().getFullYear()}, Site built by
                 {` `}
-                <a href="https://www.gatsbyjs.org">Gatsby</a>
+                <a href="https://www.romanceoffice.com">Office Romance</a>
               </footer>
             </Wrapper>
           </>
